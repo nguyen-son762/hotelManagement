@@ -1,0 +1,5 @@
+E:\LapTrinhWindows\HotelManagement\HotelManagement\obj\Release\HotelManagement.Login.resources
+E:\LapTrinhWindows\HotelManagement\HotelManagement\obj\Release\HotelManagement.Properties.Resources.resources
+E:\LapTrinhWindows\HotelManagement\HotelManagement\obj\Release\HotelManagement.View.Home.resources
+E:\LapTrinhWindows\HotelManagement\HotelManagement\obj\Release\HotelManagement.csproj.GenerateResource.cache
+E:\LapTrinhWindows\HotelManagement\HotelManagement\obj\Release\HotelManagement.csproj.CoreCompileInputs.cache
